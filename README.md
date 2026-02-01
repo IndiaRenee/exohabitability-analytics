@@ -29,7 +29,7 @@ habitability using visual analytics techniques.
 
 ## Visualization
 Tableau Public Dashboard:
-(Paste your Tableau Public link here)
+(file:///C:/Users/india/OneDrive/Tableau%20Projects/Exohabitability_Analytics_Indi.pdf)
 
 ## Data Source
 NASA Exoplanet Archive  
