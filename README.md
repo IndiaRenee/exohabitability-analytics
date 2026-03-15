@@ -31,7 +31,7 @@ habitability using visual analytics techniques.
 
 Explore the interactive dashboard:
 
-[View Tableau Dashboard on Tableau Public]((https://public.tableau.com/views/ExoplanetHabitabilityExplorer/ProjectOverview?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link))
+[View Tableau Dashboard on Tableau Public](https://public.tableau.com/views/ExoplanetHabitabilityExplorer/ProjectOverview?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 
 
