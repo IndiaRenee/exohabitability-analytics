@@ -27,10 +27,12 @@ habitability using visual analytics techniques.
 - Higher habitability scores appear within moderate stellar temperatures
 - Habitability score reflects alignment with Earth-like conditions, not confirmed life
 
-## Visualization
-Tableau Public Dashboard:
-[View Tableau Dashboard (PDF)](https://public.tableau.com/views/ExoplanetHabitabilityExplorer/ProjectOverview?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)) 
-This dashboard explores exoplanet habitability using planetary size and stellar temperature, highlighting Kepler-1693 c as the most habitable candidate based on the selected criteria.
+## Interactive Visualization
+
+Explore the interactive dashboard:
+
+[View Tableau Dashboard on Tableau Public]((https://public.tableau.com/views/ExoplanetHabitabilityExplorer/ProjectOverview?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link))
+
 
 
 ## Data Source
