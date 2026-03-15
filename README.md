@@ -29,7 +29,7 @@ habitability using visual analytics techniques.
 
 ## Visualization
 Tableau Public Dashboard:
-[View Tableau Dashboard (PDF)](Exohabitability_Analytics_Indi.pdf) 
+[View Tableau Dashboard (PDF)](https://public.tableau.com/views/ExoplanetHabitabilityExplorer/ProjectOverview?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)) 
 This dashboard explores exoplanet habitability using planetary size and stellar temperature, highlighting Kepler-1693 c as the most habitable candidate based on the selected criteria.
 
 
